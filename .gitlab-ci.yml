@@ -37,3 +37,4 @@ Build and Test:
     - if [ ! -e success ]; then
         docker-compose logs;
       fi
+  dependencies: []
